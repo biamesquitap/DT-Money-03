@@ -5,7 +5,7 @@
       "description": "Desenvolvimento do site",
       "type": "income",
       "category": "venda",
-      "price": 58400,
+      "price": 10000,
       "createdAt": "2022-09-28T19:34:17.133Z"
     },
     {
@@ -18,14 +18,14 @@
     },
     {
       "description": "Desenvolvimento de app",
-      "price": 10000,
+      "price": 1000,
       "category": "Venda",
       "type": "income",
       "createdAt": "2022-10-05T00:06:12.252Z",
       "id": 3
     },
     {
-      "description": "Contadora",
+      "description": "Supermercado",
       "price": 445,
       "category": "Pagamento",
       "type": "outcome",
@@ -33,12 +33,20 @@
       "id": 4
     },
     {
-      "description": "Acoes ",
-      "price": 4687,
-      "category": "Investimento",
+      "description": "Presentes",
+      "price": 400,
+      "category": "Pagamento",
       "type": "outcome",
       "createdAt": "2022-10-05T00:30:25.579Z",
       "id": 5
+    },
+    {
+      "description": "Hamburguer",
+      "price": 300,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-16T13:12:42.325Z",
+      "id": 6
     }
   ]
 }
